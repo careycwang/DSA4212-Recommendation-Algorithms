@@ -14,7 +14,7 @@ We use MovieLens-1M dataset (link: https://grouplens.org/datasets/movielens/1m/)
 ## Expeimental Results
 ### RMSE Result of Different Models
 Model | RMSE
---- | ---
+:--: | :--:
 Matrix Factorization  | 0.92
 SVD | 1.55
 **SVD++** | **0.89**
