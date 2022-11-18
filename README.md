@@ -9,9 +9,9 @@ Codes can be seen in `recommendation-algorithms.ipynb`.
 
 ## Dataset
 
-We use MovieLens-1M dataset (link: https://grouplens.org/datasets/movielens/1m/) for this project. It describes people’s expressed preferences for movies. These preferences are formed in ⟨user, item, rating, timestamp⟩, of each sample the rating varies from 0 to 5 (0 means the user has not rated before).
+We use MovieLens-1M dataset (link: https://grouplens.org/datasets/movielens/1m/) for this project. It describes people’s expressed preferences for movies. These preferences are formed in (user, item, rating, timestamp), of each sample the rating varies from 0 to 5 (0 means the user has not rated before).
 
-## Expeimental Results
+## Experimental Results
 ### RMSE Result of Different Models
 Model | RMSE
 :--: | :--:
